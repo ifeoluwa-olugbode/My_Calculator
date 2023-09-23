@@ -70,7 +70,7 @@ form input.operator{
     font-size: 30px;
     color: #fff;
     cursor: pointer;
-    margin: 17px;
+    margin: 10px;
 }
 form .display input{
     text-align: right;
